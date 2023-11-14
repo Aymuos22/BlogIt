@@ -14,4 +14,4 @@ This Flutter-based blog app allows users to create, read, update, and delete pos
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/blog_app.git
+   git clone https://github.com/Aymuos22/blog_app.git
