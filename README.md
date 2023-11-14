@@ -1,16 +1,17 @@
-# blogger
+# Blog App
 
-A new Flutter project.
+This Flutter-based blog app allows users to create, read, update, and delete posts. It integrates Firebase for authentication and Firestore for storing blog posts and user information.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Authentication**: Users can sign up, log in, and log out securely using Firebase authentication.
+- **Create Post**: Users can create new blog posts with titles and content.
+- **Read Posts**: Users can view all posts or search for posts by title.
+- **Update and Delete**: Authorised users can edit and delete their own posts.
+- **User Profile**: View user information and update user details.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your_username/blog_app.git
